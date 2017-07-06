@@ -1,0 +1,6 @@
+#define TEST_SENSORS_AND_NFC 1
+#define TEST_HTTP 2
+#define TEST_IBM 3
+
+
+#define MAIN_ACTIVE TEST_IBM
